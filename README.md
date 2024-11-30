@@ -62,7 +62,7 @@ You can install them manually by running:
 ***Setup Instructions***
 
   1. Clone the repository:
-     git clone https://github.com/your-username/StockPricePrediction.git
+     git clone https://github.com/NaghiyevDev/StockPricePrediction.git
      cd StockPricePrediction
      
   2.Install dependencies:
@@ -117,3 +117,4 @@ Evaluation Metrics:
   The script will also plot the predicted vs actual stock prices to visualize the model's performance.
 
 
+Created by ***Rashad Naghiyev.***
